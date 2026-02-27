@@ -6,13 +6,13 @@
     "description": "is nodig",
     "priority": "High",
     "category": "Hobby",
-    "status": "Planned / To Do"
+    "status": "Done"
   },
   {
     "text": "Inschrijven bij Mariken",
     "description": "",
     "priority": "Medium",
-    "status": "Done",
+    "status": "Planned / To Do",
     "category": "Sport",
     "created": "2026-02-27T10:44:14.347501"
   },
@@ -23,5 +23,13 @@
     "status": "Planned / To Do",
     "category": "Taakje",
     "created": "2026-02-27T11:05:44.502481"
+  },
+  {
+    "text": "Kaarten scannen en sorteren",
+    "description": "",
+    "priority": "High",
+    "status": "In Progress",
+    "category": "MTG Shop",
+    "created": "2026-02-27T18:17:16.121237"
   }
 ]

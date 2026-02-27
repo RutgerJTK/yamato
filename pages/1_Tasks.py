@@ -162,7 +162,7 @@ def get_base64_image(path):
     with open(path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-img_base64 = get_base64_image("artifact.png")
+img_base64 = get_base64_image("blocks.jpeg")
 
 st.markdown(f"""
 <style>
