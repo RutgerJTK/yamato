@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="yatamato",
+    page_title="yamato",
     page_icon="🗂️",
     layout="centered",
 )
@@ -51,12 +51,12 @@ html, body, [class*="css"] { font-family: 'Sora', sans-serif; }
 """, unsafe_allow_html=True)
 
 # Header
-st.markdown('<div class="wordmark">yatamato</div>', unsafe_allow_html=True)
+st.markdown('<div class="wordmark">yamato</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub">Barebone task management. No noise, just work.</div>', unsafe_allow_html=True)
 
 # Description
 st.markdown("""
-**yatamato** is a minimal task management tool built for people who find Jira overkill and sticky notes not quite enough.
+**yamato** is a minimal task management tool built for people who find Jira overkill and sticky notes not quite enough.
 
 Create tasks, assign them to categories, track their status, and get them done. That's it.
 """)

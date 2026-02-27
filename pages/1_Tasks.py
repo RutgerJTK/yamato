@@ -6,7 +6,7 @@ import hashlib
 import base64
 
 st.set_page_config(
-    page_title="Tasks – yatamato",
+    page_title="Tasks – yamato",
     page_icon="🗂️",
     layout="centered",
 )
@@ -162,7 +162,7 @@ def get_base64_image(path):
     with open(path, "rb") as f:
         return base64.b64encode(f.read()).decode()
 
-img_base64 = get_base64_image("1156_repro.jpg")
+img_base64 = get_base64_image("artifact.png")
 
 st.markdown(f"""
 <style>
