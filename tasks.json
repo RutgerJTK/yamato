@@ -1,0 +1,27 @@
+[
+  {
+    "text": "DnD preppen",
+    "done": false,
+    "created": "2026-02-27T01:23:17.988000",
+    "description": "is nodig",
+    "priority": "High",
+    "category": "Hobby",
+    "status": "Planned / To Do"
+  },
+  {
+    "text": "Inschrijven bij Mariken",
+    "description": "",
+    "priority": "Medium",
+    "status": "Done",
+    "category": "Sport",
+    "created": "2026-02-27T10:44:14.347501"
+  },
+  {
+    "text": "Boodschappen doen",
+    "description": "",
+    "priority": "Medium",
+    "status": "Planned / To Do",
+    "category": "Taakje",
+    "created": "2026-02-27T11:05:44.502481"
+  }
+]
